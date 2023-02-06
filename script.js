@@ -8,6 +8,6 @@ async function munction() {
 
   aName.innerHTML = data.anime;
   aQuote.innerHTML = data.quote;
-  aChar.innerHTML = "Sneha kumari";
+  aChar.innerHTML = data.character;
 }
 munction();

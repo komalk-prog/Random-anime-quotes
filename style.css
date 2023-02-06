@@ -20,3 +20,9 @@
   text-align: center;
   color: blueviolet;
 }
+
+@media (max-width: 670px) {
+  #quote {
+    height: 70vh;
+  }
+}
